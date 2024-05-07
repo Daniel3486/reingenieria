@@ -109,3 +109,11 @@ Solo tendremos que colocar el número de clave, y dar click en el botón `Elimin
 Este panel solo muestra los planes con los que se cuenta:
 
 ![](./img/12.jpeg)
+
+### Diseño de base de datos
+
+![](./img/13.jpeg)
+
+### Diagrama de flujo
+
+![](./img/14.jpeg)
